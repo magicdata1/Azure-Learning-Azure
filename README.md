@@ -54,14 +54,44 @@ All screenshots were taken during hands‑on deployment and configuration.
 
 ---
 
-## Summary
+
+# Additional Learning Completed
+
+## Skillable Labs (DP‑900 Azure Data Fundamentals)
+
+I completed the official Skillable labs covering:
+
+- Explore relational data in Azure  
+- Explore non-relational data in Azure  
+
+These labs reinforced concepts around Azure SQL, NoSQL stores, and distributed cloud data systems.
+
+---
+
+## Microsoft Fabric – Data Engineering and Analytics
+
+I also completed the Microsoft Fabric data analytics tutorial, gaining experience with:
+
+- Fabric Data Factory pipelines (data ingestion and transformation)
+- Fabric SQL Warehouse queries
+- KQL databases and time‑series analysis
+- Data preview, JSON ingestion, and real‑time streaming
+
+This expanded my cloud analytics skills into the Microsoft Fabric ecosystem.
+
+---
+
+# Summary
 
 This project demonstrates:
 
-- Creating and configuring Azure SQL Database
-- Managing Blob Storage containers and directories
-- Connecting and working with Azure File Shares
-- Using NoSQL data with Azure Table Storage
-- Querying JSON documents in Azure Cosmos DB
+- Creating and configuring Azure SQL Databases  
+- Managing Blob storage containers and folders  
+- Using Azure File Shares for cloud file access  
+- Working with Azure Table Storage (key-value NoSQL)  
+- Querying JSON documents in Azure Cosmos DB  
+- Completing official Skillable DP‑900 labs  
+- Hands‑on learning in Microsoft Fabric Data Factory and Warehousing  
 
-All work was done using the free Microsoft Learn sandbox.
+All work was done using the free Microsoft Learn sandbox and Fabric trial environment.
+
